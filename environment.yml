@@ -1,5 +1,5 @@
 name: python 3.9
 dependencies:
   - python=3.9
-  - negmas
-  - scml
+  - negmas>=0.9.1
+  - scml>=0.5.0
