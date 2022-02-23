@@ -1,5 +1,5 @@
 matplotlib
 seaborn
-git+https://github.com/yasserfarouk/negmas@master
-git+https://github.com/yasserfarouk/scml@master
+negmas
+scml
 jupyter
